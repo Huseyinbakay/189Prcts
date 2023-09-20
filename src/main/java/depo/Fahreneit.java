@@ -2,7 +2,7 @@ package depo;
 
 import java.util.Scanner;
 
-public class urunCikis {
+public class Fahreneit {
 
 
     public static void main(String[] args) {
@@ -22,6 +22,9 @@ public class urunCikis {
         double cel2=fahreneit(75);
 
         System.out.println(cel2);
+
+
+        System.out.println(cel+cel2);
 
 
     }
