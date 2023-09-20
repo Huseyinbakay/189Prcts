@@ -17,6 +17,13 @@ public class urunCikis {
 
         System.out.println("cel = " + cel);
 
+
+
+        double cel2=fahreneit(75);
+
+        System.out.println(cel2);
+
+
     }
 
     private static double fahreneit(double f) {
