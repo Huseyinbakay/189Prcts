@@ -26,6 +26,10 @@ public class Fahreneit {
 
         System.out.println(cel+cel2);
 
+       int c= add(56,98);
+
+        System.out.println(c);
+
 
     }
 
@@ -33,6 +37,9 @@ public class Fahreneit {
 
         return (f-32)/1.8;
     }
+  public static int add(int a,int b){
 
+      return a+b;
+  }
 
 }
