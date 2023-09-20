@@ -27,6 +27,8 @@ public class Fahreneit {
         System.out.println(cel+cel2);
 
 
+        System.out.println(fahreneit(76));
+
     }
 
     private static double fahreneit(double f) {
